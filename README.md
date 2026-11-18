@@ -28,22 +28,18 @@ Execute the program using runserver command.
 
 ## PROGRAM
 ```
-<!DOCTYPE html>
 <html>
 <head>
     <title>Slot Time Table</title>
 </head>
 
 <body>
-
 <center>
-
-    <!-- College Logo -->
-    <img src="logo.png" width="600" height="120">
+    <img  src="logo.png" width="600" height="120">
 
     <h3>SLOT TIME TABLE - PRADEEP (26015813)</h3>
 
-    <!-- Time Table -->
+    
     <table border="3" cellspacing="2" cellpadding="10"
            bgcolor="yellow">
 
@@ -104,7 +100,6 @@ Execute the program using runserver command.
 
     <br><br>
 
-    <!-- Subject Details -->
     <table border="1" cellspacing="2" cellpadding="8">
 
         <tr>
